@@ -1,2 +1,3 @@
-# t-nextjs-app-web
-Iniciando um E-Commerce com React e Next 2024
+INICIANDO UM E-COMMERCE COM REACT E NEXT 2024
+----------------------------------------------
+npm i @tabler/icons-react
